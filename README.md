@@ -1,5 +1,4 @@
 # Projetos-em-Python
-Aqui está um README.md simples, bem organizado e pronto pra usar no seu projeto 👇
 
 Lista de Exercícios em Python
 
